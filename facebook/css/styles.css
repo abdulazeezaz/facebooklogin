@@ -1,0 +1,136 @@
+body {
+    background: linear-gradient(to bottom right, white, #bcbdc4);
+    height: 4000px;
+}
+.heading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0;
+    color: white;
+    z-index: 7;
+    /* -webkit-box-shadow: 0 3px 8px rgba(0,0,0, -25); */
+    -webkit-box-flex: initial;
+}
+.header {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background: #142170;
+    top: 0px;
+    left: 0;
+    color: white;
+    z-index: 7;
+}
+#connect {
+    position: absolute;
+    top: 250px;
+    left: 500px;
+}
+#form1 {
+    left: 700px;
+    height: 60px;
+    width: 180px;
+    top: 20px;
+}
+#form2 {
+    left: 895px;
+    height: 60px;
+    width: 200px;
+    top: 20px;
+}
+.sumbit {
+    top: 40px;
+    width: 50px;
+    left: 1080px;
+    background: white;
+    height: 22px;
+    position: fixed;
+    z-index: 20;
+    color: #142170;
+    cursor: pointer;
+}
+.bodyx {
+    left: 0;
+    width: 100%;
+    height: 560px;
+    top: 100px;
+    position: absolute;
+}
+#intro1 {
+    top: 40px;
+    left: 100px;
+    height: 75px;
+    width: 550px;
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #142170;
+}
+#intro2 {
+    top: 40px;
+    left: 700px;
+    height: 60px;
+    width: 500px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #142170;
+}
+#img2 {
+    top: 130px;
+    left: 100px;
+    height: 250px;
+    widows: 550px;
+}
+#form3 {
+    top: 150px;
+    left: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #142170;
+    width: 450px;
+    height: 700px;
+}
+#namebox {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px/10px;
+    background: white;
+    padding: 10px;
+    font-size: 20px;
+}
+#mailbox {
+    width: 400px;
+    height: 50px;
+    border-radius: 10px/10px;
+    background: white;
+    padding: 10px;
+    font-size: 10px;
+}
+.button2 {
+    top: 650px;
+    left: 700px;
+    background: green;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px/15px;
+    outline: #bcbdc4;
+    cursor: pointer;
+}
+.body1 {
+    position: absolute;
+    left: 0px;
+    top: 750px;
+    widows: 100%;
+    background: white;
+}
+#conclu1 {
+    width: 930px;
+    top: 15px;
+    left: 200px;
+    color: #bcbdc4;
+    height: 60px;
+}
